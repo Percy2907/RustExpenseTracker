@@ -4,7 +4,7 @@ I created an expense tracker that runs in the terminal. The program allows a use
 
 I wrote this software to learn the basic syntax of Rust. I also wanted to practice mutable and immutable variables, expressions, conditionals, loops, functions, ownership, borrowing, references, vectors, structs, and impl blocks in one small project.
 
-[Software Demo Video](VIDEO_LINK_HERE)
+[Software Demo Video](https://youtu.be/zW5JuLJjWRg)
 
 # Development Environment
 
